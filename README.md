@@ -1,2 +1,2 @@
 # Wuzzuf-Selenium
-Testing wuzzuf website using selenium testng
+Testing wuzzuf registerition form website using selenium testng
